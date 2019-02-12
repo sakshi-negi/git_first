@@ -1,0 +1,3 @@
+git init ( to make the .git folder)
+git remote add origin "url"  (OR) git clone "url"
+git status (tells how many files are available for commit)
